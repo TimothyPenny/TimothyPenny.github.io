@@ -12,7 +12,7 @@ body {
 /* navigation menu */
 nav {
     background: rgb(191, 189, 189);
-   margin: 0 auto;
+   margin-bottom: 20px
     display: flex;
     padding: 10px;
 }
@@ -27,7 +27,7 @@ h1 {
     list-style-image: none;
 }
 .nav-li {
-    display: inline-block;
+    display: inline-blok;
     padding: 0 10px;
 }
 a {
