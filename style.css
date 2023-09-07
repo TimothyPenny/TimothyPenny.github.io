@@ -27,7 +27,7 @@ h1 {
     list-style-image: none;
 }
 .nav-li {
-    display: inline-blok;
+    display: inline-block;
     padding: 0 10px;
 }
 a {
