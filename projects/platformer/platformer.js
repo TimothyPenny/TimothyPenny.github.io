@@ -43,10 +43,17 @@ $(function () {
     // Create platforms
     // You must decide the x position, y position, width, and height of the platforms
     // example usage: createPlatform(x,y,width,height)
-    createPlatform(200,600,100,20)
-    createPlatform(400,400,100,30)
-
-    
+    createPlatform(200,620,100,20)
+    createPlatform(400,500,100,20)
+    createCannon("right",600, 1300)
+    createPlatform(100,390,300,20)
+    createPlatform (200,100,20,300)
+    createCannon("top",600,1200)
+    createPlatform(500,100,200,20)
+    createPlatform(500,300,400,20)
+    createCannon("bottom",700,1000)
+    createPlatform(800,200,100,20)
+    createCollectable("steve",600,50)
     // TODO 2
     // Create collectables
     // You must decide on the collectable type, the x position, the y position, the gravity, and the bounce strength
