@@ -99,4 +99,5 @@ var collectableList = {
   steve: { image: "images/collectables/steve-head.png" }, 
   apple: { image: "images/collectables/apple.png"},
   cube: { image: "images/collectables/cube.png"},
+  cake: { image: "images/collectables/cake.png"},
 };

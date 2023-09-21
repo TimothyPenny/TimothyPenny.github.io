@@ -368,14 +368,14 @@ function deathOfPlayer() {
   ctx.fillStyle = "black";
   ctx.font = "800% serif";
   ctx.fillText(
-    "skill issue",
+    "Oh well",
     canvas.width / 4,
     canvas.height / 6 + canvas.height / 5,
     (canvas.width / 16) * 14
   );
-  ctx.font = "200% serif";
+  ctx.font = "150% serif";
   ctx.fillText(
-    "Hot dog buns are for fridays only",
+    "Thank you for participiating in the Aperture Science Durability Test",
     canvas.width / 4,
     canvas.height / 6 + canvas.height / 3,
     (canvas.width / 16) * 14
